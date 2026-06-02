@@ -27,7 +27,7 @@ A fast⚡, real-time ⌛ web version of the classic "Sevens" 7️⃣❤️ card 
 
 <div align="center">
 <a href="https://widgets.elorca.in/" target="_blank">
-<b><i>Play</b></b>i>
+<b><i>Play</b></i>
 </a>
 <br>
 <p><strong>Click Above 👆 to Open the Live Web App</strong></p>
