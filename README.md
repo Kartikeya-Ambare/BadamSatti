@@ -26,8 +26,8 @@ A fast⚡, real-time ⌛ web version of the classic "Sevens" 7️⃣❤️ card 
 ### 🚀 Live Demo
 
 <div align="center">
-<a href="https://akshayparihardev.pythonanywhere.com/" target="_blank">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxSmMBE-TioetWiNZiUDuBCxppXz6yDJyUeQ&s" alt="PythonAnywhere App" style="width: 100%; max-width: 450px; height: auto; display: block; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); margin: auto;">
+<a href="https://widgets.elorca.in/" target="_blank">
+<b><i>Play</b></b>i>
 </a>
 <br>
 <p><strong>Click Above 👆 to Open the Live Web App</strong></p>
